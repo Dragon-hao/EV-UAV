@@ -1,0 +1,27 @@
+# python
+__pycache__/
+*.pyc
+
+# build
+build/
+*.so
+*.o
+
+# cuda extension
+*.egg-info/
+
+# logs
+log/
+logs/
+slurm_log/
+*.log
+
+# models
+*.pt
+*.pth
+
+# dataset
+datasets/
+
+# temporary
+*.tmp
